@@ -172,18 +172,5 @@ Request Body:
 * Benchmark suite for SQL generation accuracy
 * Advanced SQL parsing / AST validation
 
----
-
-## Resume Impact
-
-This project demonstrates:
-
-* LLM application engineering
-* Prompt engineering / semantic parsing
-* Backend API development
-* Validation / safety layers for AI systems
-* End-to-end software architecture
-* Containerization / deployment readiness
-
 ```
 ```
